@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://champaignrestoration.com/sitemap.xml
